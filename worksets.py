@@ -31,4 +31,4 @@ clr.AddReference("RevitAPI")
 doc = __revit__.ActiveUIDocument.Document
 worksets = set_vars()
 create_worksets(worksets)
-print("klaar")
+print("Klaar")
